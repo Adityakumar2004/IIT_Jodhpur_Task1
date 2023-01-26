@@ -1,3 +1,3 @@
 # IIT_Jodhpur_Task1
 
-A python wrapper to make the drone hover
+A python wrapper to make the drone hover and move around
