@@ -38,7 +38,7 @@ pip3 install aruco
 - k : trim back pitch
 
 ## Program Files
-- [task1.py](https://github.com/Adityakumar2004/team_ID_51_task1/blob/main/task1.py) : Performs ```task 1```, using the keyboard controls the pluto drone.
+- [task1](https://github.com/Adityakumar2004/team_ID_51_task1/tree/main/task1) : Performs ```task 1```, using the keyboard controls the pluto drone.
 - [rectangle_2](https://github.com/Adityakumar2004/inter_iit/blob/main/rectangle_2.py) : Performs ```task 2```, moving the drone in a rectangle. 
 - [Aruco Marker OpenCV](https://github.com/Adityakumar2004/inter_iit/tree/main/Aruco%20Marker%20OpenCV): Performs the task 2 to detect the ```Aruco marker``` and returns the respective position coordinates.
     - [CAMERA-CALIBARTION](https://github.com/Adityakumar2004/inter_iit/tree/main/Aruco%20Marker%20OpenCV/CAMERA-CALIBARTION):Camera calibration consists                                        in obtaining the camera intrinsic parameters and distortion coefficients. This parameters remain fixed unless the camera optic                                        is modified, thus camera calibration only need to be done once. For the same we have uploaded chessboard images in different-                                        different plane and angle. 
