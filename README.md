@@ -47,4 +47,8 @@ pip3 install aruco
     - [Pattern-PNG](https://github.com/Adityakumar2004/inter_iit/tree/main/Aruco%20Marker%20OpenCV/Pattern-PNG): Pattern png for camera calibration.
     - [calib_data](https://github.com/Adityakumar2004/inter_iit/tree/main/Aruco%20Marker%20OpenCV/calib_data):As a result of the calibration, we get a                                          camera matrix: a matrix of 3x3 elements with the focal distances and the camera center coordinates, and the distortion c                                              coefficients: a vector of 5 or more elements that models the distortion produced by your camera.
               
+For Task 1 execute this file: task1.py from task1 folder
+For task2 hover part execute this file: rectangle_hover.py from task2
+For task2 for rectangle path execute this file: rectangle_final.py 
+
 
